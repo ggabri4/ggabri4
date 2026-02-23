@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Gabriel Gruit</h1>
+<h3 align="center">A passionate Frontend Developer focused on building interactive & visually stunning web experiences.</h3>
 
-<!--
-**ggabri4/ggabri4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://ggruit.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🔭 I’m currently building an **ultra-modern, animated developer portfolio** using React, Three.js, and Framer Motion.
+- 🌱 I’m constantly learning and refining my skills in modern UI/UX design, performance optimization, and 3D web graphics.
+- 💬 Ask me about: **React, TypeScript, Tailwind CSS, and Web Animations.**
+- 📫 How to reach me: **[Contact me via my Portfolio](https://ggruit.com/#contact)**
+
+### 💻 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,github,html,css,js,vscode" />
+</p>
+
+### 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggabri4&theme=nord" width="48%" />
+</p>
+
+---
+<p align="center">
+  <i>"Building the web, one pixel at a time."</i>
+</p>
