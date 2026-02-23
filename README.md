@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Gruit</h1>
-<h3 align="center">A passionate Frontend Developer focused on building interactive & visually stunning web experiences.</h3>
+<h3 align="center">Full Stack Web Developer & DevOps Enthusiast</h3>
 
 <p align="center">
   <a href="https://ggruit.com" target="_blank">
@@ -11,16 +11,25 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently building an **ultra-modern, animated developer portfolio** using React, Three.js, and Framer Motion.
-- 🌱 I’m constantly learning and refining my skills in modern UI/UX design, performance optimization, and 3D web graphics.
-- 💬 Ask me about: **React, TypeScript, Tailwind CSS, and Web Animations.**
-- 📫 How to reach me: **[Contact me via my Portfolio](https://ggruit.com/#contact)**
+- 💼 I’m a **Full Stack Web Developer** & Freelancer based in France (Amiens / Lille / Paris).
+- 🔭 I specialize in modern JavaScript/TypeScript ecosystems (**Vue.js, Nuxt, Angular**) and robust PHP backends (**Laravel, Symfony**).
+- ☁️ I have strong enterprise experience in **DevOps & Cloud architecture**, deploying scalable applications using **Kubernetes, Docker, and GCP**.
+- 🌱 I’m constantly learning and currently exploring **3D Web experiences** (Three.js) and Blockchain technologies (Solana).
+- 📫 How to reach me: **ggabri432@gmail.com** or via my portfolio at **[ggruit.com](https://ggruit.com)**.
 
 ### 💻 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,github,html,css,js,vscode" />
-</p>
+**Frontend Development:**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,angular,react,tailwind,html,css" />
+
+**Backend & Databases:**
+<br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,symfony,python,java,postgres,mysql" />
+
+**DevOps, Cloud & Architecture:**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,github,postman,vscode" />
 
 ### 📈 My GitHub Stats
 
