@@ -14,7 +14,7 @@
 - 💼 I’m a **Full Stack Web Developer** & Freelancer based in France (Amiens / Lille / Paris).
 - 🔭 I specialize in modern JavaScript/TypeScript ecosystems (**Vue.js, Nuxt, Angular**) and robust PHP backends (**Laravel, Symfony**).
 - ☁️ I have strong enterprise experience in **DevOps & Cloud architecture**, deploying scalable applications using **Kubernetes, Docker, and GCP**.
-- 🌱 I’m constantly learning and currently exploring **3D Web experiences** (Three.js) and Blockchain technologies (Solana).
+- 🌱 I’m constantly learning and currently exploring **3D Web experiences** (Three.js).
 - 📫 How to reach me: **ggabri432@gmail.com** or via my portfolio at **[ggruit.com](https://ggruit.com)**.
 
 ### 💻 Tech Stack & Tools
