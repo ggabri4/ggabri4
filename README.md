@@ -36,8 +36,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggabri4&theme=nord" width="48%" />
 </p>
-
----
-<p align="center">
-  <i>"Building the web, one pixel at a time."</i>
-</p>
